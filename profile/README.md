@@ -1,1 +1,2 @@
-[![picture 1](../images/6cf4793b7d67da8e8374697d410e0eecdf17d4842c0dd022bb95b497f20b5b58.jpg)](https://note.com/fukurou_dev)
+[![fukurou_labo](https://user-images.githubusercontent.com/47747828/179177837-ca50cd85-acab-439e-97d7-9dfd5ac1c79d.jpg)
+](https://note.com/fukurou_dev)
